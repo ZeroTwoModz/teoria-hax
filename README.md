@@ -2,7 +2,9 @@
 
 # PYTHON:
 
-`pip install selenium`
+`pip install selenium`,
+
+`python main.py` (**COMMAND PROMPT**)
 
 # EXECUTABLE:
 
