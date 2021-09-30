@@ -1,6 +1,4 @@
-# SETUP
-
-PYTHON:
+# PYTHON:
 
 `pip install selenium`
 
